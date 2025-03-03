@@ -14,6 +14,7 @@ Software Engineering - The systematic application of engineering principles to t
 4) It has brought tools that have enabled digitizaton of businesses, improving efficiency of various processes as well as creation of digital products and services.
 5) It has enabled creation of user-friendly softwares which has contributed to the success of many digital products and services.
  
+---
 
 ### B) Identify and describe at least three key milestones in the evolution of software engineering.
 
@@ -35,6 +36,7 @@ Software Engineering - The systematic application of engineering principles to t
 - The Agile Manifesto, published in 2001, marked a paradigm shift in software development.
 - It emphasized flexibility, customer collaboration, and iterative progress over rigid planning and documentation.
 
+---
 
 ### C) List and briefly explain the phases of the Software Development Life Cycle (SDLC).
 1) Planning/Requirements - The planning phase typically includes tasks like cost-benefit analysis, scheduling, resource estimation, and allocation.
@@ -44,6 +46,7 @@ Software Engineering - The systematic application of engineering principles to t
 5) Deployment - The software is deployed to the production environment, making it available to end-users.
 6) Maintenance - Involves providing support, fixing bugs, and implementing updates and enhancements to the software.
 
+---
 
 ### Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 #### 1) Waterfall:
@@ -61,13 +64,14 @@ Software Engineering - The systematic application of engineering principles to t
   a) Developing a new mobile app where user feedback and market trends can significantly influence the product.
   b) Complex projects such as software for financial services where requirements may evolve based on regulatory changes or market conditions.
 
-
+----
 
 ### D) Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 1) Software Developer - Writes code and implements software solutions.
 2) Quality Assurance Engineer - Ensures software quality by designing and executing test plans.
 3) Project Manager - Oversees the planning, execution, and delivery of software development projects.
 
+---
 
 ### E) Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 1) IDEs
@@ -80,6 +84,7 @@ Software Engineering - The systematic application of engineering principles to t
 - Enable multiple developers to work on the same codebase simultaneously, without overwriting each other's changes.
 - Examples include: Git, Subversion.
 
+---
 
 ### F) What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 #### Challenges:
@@ -123,6 +128,7 @@ Prompt engineering - The designing of specific, clear, and well-structured input
 - Reduces Ambiguity - Clear and precise prompts minimize misunderstandings, enabling the AI to better understand the intent behind the prompt and provide more useful responses.
 - Enables Specialization - By tailoring prompts, users can leverage AI models for specialized tasks, such as creative writing, technical problem-solving, or customer support.
 
+---
 
 ### B) Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 - Vague prompt: Write python code.
