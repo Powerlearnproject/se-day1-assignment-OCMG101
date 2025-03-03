@@ -48,7 +48,7 @@ Software Engineering - The systematic application of engineering principles to t
 
 ---
 
-### Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+### D) Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 #### 1) Waterfall:
 - It is a linear and sequential approach where each phase of the SDLC is completed before moving on to the next.
 - Extensive documentation is created at each phase, and changes are difficult to implement once a phase is completed.
@@ -64,16 +64,16 @@ Software Engineering - The systematic application of engineering principles to t
   a) Developing a new mobile app where user feedback and market trends can significantly influence the product.
   b) Complex projects such as software for financial services where requirements may evolve based on regulatory changes or market conditions.
 
-----
+---
 
-### D) Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+### E) Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 1) Software Developer - Writes code and implements software solutions.
 2) Quality Assurance Engineer - Ensures software quality by designing and executing test plans.
 3) Project Manager - Oversees the planning, execution, and delivery of software development projects.
 
 ---
 
-### E) Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+### F) Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 1) IDEs
 - Provide tools for writing, debugging, and testing code.
 - Provide real-time error detection, code analysis, and refactoring tools, helping developers write cleaner and more maintainable code.
@@ -86,7 +86,7 @@ Software Engineering - The systematic application of engineering principles to t
 
 ---
 
-### F) What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+### G) What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 #### Challenges:
 1) Tight Deadlines and Pressure - Software development projects often have tight deadlines, leading to stress and burnout.
 2) Ever-Evolving Technologies - Constant changes in the industry, require engineers to continuously learn new languages, frameworks, and tools; which can be difficult to keep up with.
@@ -99,7 +99,7 @@ Software Engineering - The systematic application of engineering principles to t
 
 ---   
 
-### G) Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+### H) Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 1) Unit Testing:
    - Testing individual components or modules of software.
    - Helps to identify bugs early in the development process, making them easier and cheaper to fix.
