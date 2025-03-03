@@ -64,7 +64,7 @@ Software Engineering - The systematic application of engineering principles to t
 
 
 ### D) Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-1) Software Developer - writes code and implements software solutions.
+1) Software Developer - Writes code and implements software solutions.
 2) Quality Assurance Engineer - Ensures software quality by designing and executing test plans.
 3) Project Manager - Oversees the planning, execution, and delivery of software development projects.
 
@@ -92,6 +92,7 @@ Software Engineering - The systematic application of engineering principles to t
 2) Dedicating time for learning through online courses, tutorials, and conferences as well as followong industry blogs, publications, and social media to keep track of emerging trends.
 3) Apply optimization techniques such as caching, load balancing, and database indexing to improve performance.
 
+---   
 
 ### G) Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 1) Unit Testing:
@@ -111,11 +112,19 @@ Software Engineering - The systematic application of engineering principles to t
    -  Ensures that the software meets the user's needs and expectations.
   
 
-
 ## Part 2: Introduction to AI and Prompt Engineering
 
 
 ### A) Define prompt engineering and discuss its importance in interacting with AI models.
+Prompt engineering - The designing of specific, clear, and well-structured inputs (prompts) that guide AI models to generate the intended results.
+
+#### Importance: 
+- Improves Output Quality -  Well-crafted prompts help AI models generate more accurate and relevant responses.
+- Reduces Ambiguity - Clear and precise prompts minimize misunderstandings, enabling the AI to better understand the intent behind the prompt and provide more useful responses.
+- Enables Specialization - By tailoring prompts, users can leverage AI models for specialized tasks, such as creative writing, technical problem-solving, or customer support.
 
 
 ### B) Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+- Vague prompt: Write python code.
+- Improved prompt: Write a Python function to generate the Fibonacci Sequence up to 18 terms using recursion.
+- The improved promt clearly defines the task (generating the Fibonacci Sequence) and specifies the method (recursion) and the limit (18 terms).
