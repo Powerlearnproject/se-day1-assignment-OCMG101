@@ -4,7 +4,7 @@ Software Engineering Day1 Assignment
 
 ## Part 1: Introduction to Software Engineering
 
-### Explain what software engineering is and discuss its importance in the technology industry.
+### A) Explain what software engineering is and discuss its importance in the technology industry.
 Software Engineering - The systematic application of engineering principles to the design, development, testing and maintenance of software applications.
 
 #### Importance in the technology industry: 
@@ -15,7 +15,7 @@ Software Engineering - The systematic application of engineering principles to t
 5) It has enabled creation of user-friendly softwares which has contributed to the success of many digital products and services.
  
 
-### Identify and describe at least three key milestones in the evolution of software engineering.
+### B) Identify and describe at least three key milestones in the evolution of software engineering.
 
 #### 1) The Birth of High-Level Languages (1950s-1960s):
 - The development of high-level programming languages such as FORTRAN (1957), COBOL (1959), and ALGOL (1958) marked a significant shift from machine-level and assembly language programming.
@@ -36,8 +36,8 @@ Software Engineering - The systematic application of engineering principles to t
 - It emphasized flexibility, customer collaboration, and iterative progress over rigid planning and documentation.
 
 
-### List and briefly explain the phases of the Software Development Life Cycle (SDLC).
-1) Planning - The planning phase typically includes tasks like cost-benefit analysis, scheduling, resource estimation, and allocation.
+### C) List and briefly explain the phases of the Software Development Life Cycle (SDLC).
+1) Planning/Requirements - The planning phase typically includes tasks like cost-benefit analysis, scheduling, resource estimation, and allocation.
 2) Design - In the design phase, software engineers analyze requirements and identify the best solutions to create the software.
 3) Implementation - In the implementation phase, the development team codes the product. They analyze the requirements to identify smaller coding tasks they can do daily to achieve the final result.
 4) Testing - The development team combines automation and manual testing to check the software for bugs.
@@ -46,25 +46,76 @@ Software Engineering - The systematic application of engineering principles to t
 
 
 ### Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+#### 1) Waterfall:
+- It is a linear and sequential approach where each phase of the SDLC is completed before moving on to the next.
+- Extensive documentation is created at each phase, and changes are difficult to implement once a phase is completed.
+- Examples of appropriate scenarios:
+  a) Developing a government system with well-defined regulations and requirements.
+  b) Healthcare systems where extensive documentation and compliance are required.
+
+#### 2) Agile:
+- It is an iterative and incremental approach focused on flexibility, collaboration, and responding to change.
+- Emphasizes collaboration between cross-functional teams and stakeholders.
+- It is highly adaptive to changing requirements.
+- Examples of appropriate scenarios:
+  a) Developing a new mobile app where user feedback and market trends can significantly influence the product.
+  b) Complex projects such as software for financial services where requirements may evolve based on regulatory changes or market conditions.
 
 
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+### D) Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+1) Software Developer - writes code and implements software solutions.
+2) Quality Assurance Engineer - Ensures software quality by designing and executing test plans.
+3) Project Manager - Oversees the planning, execution, and delivery of software development projects.
 
 
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+### E) Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+1) IDEs
+- Provide tools for writing, debugging, and testing code.
+- Provide real-time error detection, code analysis, and refactoring tools, helping developers write cleaner and more maintainable code.
+- Examples include: VS Code, PyCharm, Eclipse.
+  
+2) VCS
+- Software tools for tracking changes to source code and coordinating work among team members.
+- Enable multiple developers to work on the same codebase simultaneously, without overwriting each other's changes.
+- Examples include: Git, Subversion.
 
 
-What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+### F) What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+#### Challenges:
+1) Tight Deadlines and Pressure - Software development projects often have tight deadlines, leading to stress and burnout.
+2) Ever-Evolving Technologies - Constant changes in the industry, require engineers to continuously learn new languages, frameworks, and tools; which can be difficult to keep up with.
+3) Challenges in performance optimization - Ensuring that software performs well under various conditions, including high load and limited resources, can be challenging.
+
+#### Solutions:
+1) Effective planning and proper time management in order to maximize productivity and organization.
+2) Dedicating time for learning through online courses, tutorials, and conferences as well as followong industry blogs, publications, and social media to keep track of emerging trends.
+3) Apply optimization techniques such as caching, load balancing, and database indexing to improve performance.
 
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+### G) Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+1) Unit Testing:
+   - Testing individual components or modules of software.
+   - Helps to identify bugs early in the development process, making them easier and cheaper to fix.
+     
+2) Integration Testing:
+   - Testing interactions between different components or subsystems.
+   - Ensures that the interfaces between different components are working correctly.
+     
+3) System Testing:
+   - Testing the entire software system as a whole.
+   - Verifies that the system functions correctly from end to end.
+     
+4) Acceptance Testing:
+   - Testing the software against user requirements to ensure it meets user needs.
+   -  Ensures that the software meets the user's needs and expectations.
+  
 
 
-# Part 2: Introduction to AI and Prompt Engineering
+## Part 2: Introduction to AI and Prompt Engineering
 
 
-Define prompt engineering and discuss its importance in interacting with AI models.
+### A) Define prompt engineering and discuss its importance in interacting with AI models.
 
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+### B) Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
